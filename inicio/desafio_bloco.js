@@ -5,9 +5,31 @@ Já o segundo bloco deve imprimir os ímpares.
 */
 
 {
-    console.log("0, 2, 4, 6, 8, 10");
+    console.log("--Pares--");
+    console.log("--- 0 ---");
+    console.log("--- x ---");
+    console.log("--- 2 ---");
+    console.log("--- x ---");
+    console.log("--- 4 ---");
+    console.log("--- x ---");
+    console.log("--- 6 ---");
+    console.log("--- x ---");
+    console.log("--- 8 ---");
+    console.log("--- x ---");
+    console.log("--- 10 --");
 }
 
 {
-    console.log("1, 3, 5, 7, 9");
+    console.log("-Impares-");
+    console.log("--- x ---");
+    console.log("--- 1 ---");
+    console.log("--- x ---");
+    console.log("--- 3 ---");
+    console.log("--- x ---");
+    console.log("--- 5 ---");
+    console.log("--- x ---");
+    console.log("--- 7 ---");
+    console.log("--- x ---");
+    console.log("--- 9 ---");
+    console.log("--- x ---");
 }
