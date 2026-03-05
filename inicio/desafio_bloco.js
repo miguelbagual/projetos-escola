@@ -33,3 +33,4 @@ Já o segundo bloco deve imprimir os ímpares.
     console.log("--- 9 ---");
     console.log("--- x ---");
 }
+ 
