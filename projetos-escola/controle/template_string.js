@@ -4,4 +4,4 @@ let idade = 15;
 
 console.log("Meu nome é", nome, "e eu tenho", idade, "anos");
 console.log(`Meu nome é ${nome}, eu tenho ${idade} anos
-escrevi isso com string q legal da de cortar, tipo top 10 auras 👌`);
+escrevi isso com string q legal da de cortar`);
