@@ -6,7 +6,7 @@ hardware.push("Fonte");
 
 console.log(hardware);
 
-hardware.shift(1);
+hardware.shift();
 
 console.log(hardware);
 
