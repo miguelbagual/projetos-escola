@@ -1,4 +1,4 @@
-const nomes = ["Miguel", "Pedro Potricao", "Emanuel", "Felipao", "Rafael", "Abdal Papaulin", "Alex o Leao", "Pedro Lima", "Pedrao", "Gustavo Uncini Seleção Brasileira"];
+const nomes = ["Miguel", "Pedro Potricao", "Emanuel", "Felipao", "Rafael", "Funcionário", "Alex o Leao", "Pedro Lima", "Pedrao", "Patrão"];
 let nome = "Miguel"
 
 if(nomes.includes(nome)==true){
