@@ -1,7 +1,7 @@
 const nomes = ["Miguel", "Pedro Potricao", "Emanuel", "Felipao", "Rafael", "Funcionário", "Alex o Leao", "Pedro Lima", "Pedrao", "Patrão"];
-let nome = "Miguel"
+let nome = "Migue"
 
-if(nomes.includes(nome)==true){
+if(nomes.includes(nome)){
     console.log("Usuário encontrado no sistema.");
 }
 else{
