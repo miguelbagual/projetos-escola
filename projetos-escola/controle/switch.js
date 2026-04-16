@@ -1,4 +1,4 @@
-let dia = 4;
+let dia = 9;
 switch (dia){
     case 1:
         console.log("Domingo");
@@ -23,5 +23,5 @@ switch (dia){
         break;
     default:
         console.log("Inválido");
-        break;
+
 }
